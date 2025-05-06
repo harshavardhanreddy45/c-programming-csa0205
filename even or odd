@@ -16,3 +16,5 @@ int main() {
 
     return 0;
 }
+output
+7 is odd number
